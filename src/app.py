@@ -39,6 +39,12 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
+    "Robotics": {
+        "description": "Build and program robots for competitions and fun",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 15,
+        "participants": []
+    },
     "Basketball Team": {
         "description": "Competitive basketball training and games",
         "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
